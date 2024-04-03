@@ -70,4 +70,4 @@ for config in configurations:
 with open('queries.json', 'w') as f:
     json.dump(queries, f, indent=4)
 
-print("Queries generated and saved to 'queries.json'")
+print("Queries generated and saved to 'queries.json file'")
